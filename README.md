@@ -15,8 +15,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd Eager-minds
+   git clone https://github.com/Namra2511/Social-media-bot.git
+   cd Social-media-bot
    ```
 
 2. **Install dependencies:**
